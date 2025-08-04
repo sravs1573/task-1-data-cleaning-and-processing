@@ -56,9 +56,9 @@ File Name
 4. Final cleaned file: `titanic_cleaned.csv`
 
 
-## 📬 Contact
+##  Contact
 For queries or feedback, feel free to reach out:  
-📧 **indurisravani@gmail.com** *(example email – update if needed)*
+indurisravani7@gmail.com
 
 
 ## ✅ Internship Task Submission
